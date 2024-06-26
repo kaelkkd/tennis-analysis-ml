@@ -11,7 +11,7 @@ This repository contains a Computer Vision project that analyses and obtain data
 
 ## Introduction
 
-The project is designed to provide insights into tennis matches by analyzing video footage. The project utilizes YOLO to track both players and the ball and CNNs to find the court keypoints.
+This project is designed to provide insights into tennis matches by analyzing video footage. The project utilizes YOLO to track both players and the ball and CNNs to find the court keypoints.
 
 ## Features
 
