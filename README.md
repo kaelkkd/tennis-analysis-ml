@@ -1,6 +1,6 @@
 # Tennis Analysis
 
-This repository contains a Computer Vision project that analyses and obtain data from a tennis match.
+This repository contains a Computer Vision project that analyzes and obtain data from a tennis match video.
 
 ## Table of Contents
 
